@@ -71,6 +71,8 @@ echo 'export WINEPREFIX="'$instdir'/AxieInfinity"' >> $instdir/AxieInfinity/driv
 echo 'WINEPREFIX='$instdir'/AxieInfinity DXVK_LOG_PATH='$instdir'/AxieInfinity DXVK_STATE_CACHE_PATH='$instdir'/AxieInfinity wine' $instdir'/AxieInfinity/drive_c/Program\ Files/Axie\ Infinity\ -\ Origins/AxieInfinity-Origins.exe $FILE_PATH' >> $instdir/AxieInfinity/drive_c/launcher.sh
 echo 'fi fi' >> $instdir/AxieInfinity/drive_c/launcher.sh
 
+curl -L lulucloud.mywire.org/FileHosting/GithubProjects/AxieInfinityOrigin/axiever.mimidb -o $instdir/AxieInfinity/drive_c/axieverserver.mimidb
+
 
 
 chmod +x $instdir/AxieInfinity/drive_c/launcher.sh
