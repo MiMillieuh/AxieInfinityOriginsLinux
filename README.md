@@ -10,6 +10,8 @@ I'm not responsable of anything for you using this software
 
 ## Update Status
 
+Automatic update aren't implemented for now. to update just reinstall the game.
+
 | Version  | Status |
 | ------------- | ------------- |
 | 0.2.23 | Working (Current) |
