@@ -64,6 +64,8 @@ echo 'echo "Downloading Axie Infinity Origins..."' >> $instdir/AxieInfinity/driv
 echo 'wget https://lulucloud.mywire.org/FileHosting/GithubProjects/AxieInfinityOrigin/AxieInfinity-Origins.tar.xz -O /tmp/AxieInfinity-Origins.tar.xz' >> $instdir/AxieInfinity/drive_c/launcher.sh
 echo 'tar -xf /tmp/AxieInfinity-Origins.tar.xz -C /tmp/' >> $instdir/AxieInfinity/drive_c/launcher.sh
 echo 'rm -rf /tmp/AxieInfinity-Origins.tar.xz' >> $instdir/AxieInfinity/drive_c/launcher.sh
+echo 'cp -r /tmp/Axie\ Infinity\ -\ Origins '$instdir'/AxieInfinity/drive_c/Program\ Files/' >> $instdir/AxieInfinity/drive_c/launcher.sh
+echo 'rm -r /tmp/Axie\ Infinity\ -\ Origins' >> $instdir/AxieInfinity/drive_c/launcher.sh
 echo 'rm '$instdir'/AxieInfinity/drive_c/axieverlocal.mimidb' >> $instdir/AxieInfinity/drive_c/launcher.sh
 echo 'mv '$instdir'/AxieInfinity/drive_c/axieverserver.mimidb '$instdir'/AxieInfinity/drive_c/axieverlocal.mimidb' >> $instdir/AxieInfinity/drive_c/launcher.sh
 echo 'sleep 3' >> $instdir/AxieInfinity/drive_c/launcher.sh
@@ -72,6 +74,8 @@ echo 'WINEPREFIX='$instdir'/AxieInfinity DXVK_LOG_PATH='$instdir'/AxieInfinity D
 echo 'fi fi' >> $instdir/AxieInfinity/drive_c/launcher.sh
 
 curl -L lulucloud.mywire.org/FileHosting/GithubProjects/AxieInfinityOrigin/axiever.mimidb -o $instdir/AxieInfinity/drive_c/axieverserver.mimidb
+curl -L lulucloud.mywire.org/FileHosting/GithubProjects/AxieInfinityOrigin/axiever.mimidb -o $instdir/AxieInfinity/drive_c/axieverlocal.mimidb
+
 
 
 
