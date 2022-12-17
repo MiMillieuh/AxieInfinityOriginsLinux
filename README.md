@@ -8,6 +8,13 @@ This method isn't supported by the Axie Infinity team and might not work after s
 
 I'm not responsable of anything for you using this software
 
+## Update Status
+
+| Version  | Status |
+| ------------- | ------------- |
+| 0.2.23 | Working (Current) |
+| 0.2.22 | Working (Out-of-date)  |
+
 ## Installation/Uninstallation
 
 **Installing :**
