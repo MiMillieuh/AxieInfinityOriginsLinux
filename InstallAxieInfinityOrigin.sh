@@ -47,7 +47,7 @@ rm -rf /tmp/AxieInfinity-Origins.tar.xz
 
 touch $instdir/AxieInfinity/drive_c/launcher.sh
 echo 'echo "none" > '$instdir'/AxieInfinity/drive_c/axieverserver.mimidb' >> $instdir/AxieInfinity/drive_c/launcher.sh
-echo 'echo "none" > curl -L lulucloud.mywire.org/FileHosting/GithubProjects/AxieInfinityOrigin/axiever.mimidb -o '$instdir'/AxieInfinity/drive_c/axieverserver.mimidb' >> $instdir/AxieInfinity/drive_c/launcher.sh
+echo 'curl -L lulucloud.mywire.org/FileHosting/GithubProjects/AxieInfinityOrigin/axiever.mimidb -o '$instdir'/AxieInfinity/drive_c/axieverserver.mimidb' >> $instdir/AxieInfinity/drive_c/launcher.sh
 echo 'LOCAL=$(cat "'$instdir'/AxieInfinity/drive_c/axieverlocal.mimidb")' >> $instdir/AxieInfinity/drive_c/launcher.sh
 echo 'SERVER=$(cat "'$instdir'/AxieInfinity/drive_c/axieverserver.mimidb")' >> $instdir/AxieInfinity/drive_c/launcher.sh
 echo 'if [[ $LOCAL = $SERVER ]] then' >> $instdir/AxieInfinity/drive_c/launcher.sh
