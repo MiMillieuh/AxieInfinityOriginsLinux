@@ -19,6 +19,8 @@ I'm not responsable of anything for you using this software
 | 0.2.23 | Working (Out-of-date) |
 | 0.2.22 | Working (Out-of-date)  |
 
+for update requests : [Here](https://github.com/MiMillieuh/AxieInfinityOriginsLinux/discussions/1)
+
 ## Installation/Uninstallation
 
 **Installing :**
