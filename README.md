@@ -14,7 +14,9 @@ Automatic update aren't implemented for now. to update just reinstall the game.
 
 | Version  | Status |
 | ------------- | ------------- |
-| 0.2.23 | Working (Current) |
+| 0.2.25 | Working (Current) |
+| 0.2.24 | Skipped ? (Out-of-date)  |
+| 0.2.23 | Working (Out-of-date) |
 | 0.2.22 | Working (Out-of-date)  |
 
 ## Installation/Uninstallation
