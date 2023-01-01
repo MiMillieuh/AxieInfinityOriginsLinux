@@ -10,7 +10,7 @@ I'm not responsable of anything for you using this software
 
 ## Update Status
 
-Automatic update aren't implemented for now. to update just reinstall the game.
+**Automatic update are now implemented !!!**
 
 | Version  | Status |
 | ------------- | ------------- |
@@ -36,7 +36,7 @@ To uninstall remove the axieinfintyorigins desktop file in `~/.local/share/appli
 ## Requirements
 
 
-- wine >=6.1 (Avoid 6.20 to 6.22 DON'T USE STAGING used only to init the scripts then independent)
+- wine >=7.0
 - zenity
 - appmenu-gtk-module
 - tar
