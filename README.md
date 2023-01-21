@@ -17,8 +17,6 @@ I'm not responsable of anything for you using this software
 | 0.2.27 | Working (Current) |
 | 0.2.26 | Working (Out-of-date) |
 | 0.2.25 | Working (Out-of-date) |
-| 0.2.24 | Skipped ? (Out-of-date)  |
-| 0.2.23 | Working (Out-of-date) |
 | ...| [Full history](https://github.com/MiMillieuh/AxieInfinityOriginsLinux/blob/main/Fullupdatehistory.md)  |
 
 for update requests : [Here](https://github.com/MiMillieuh/AxieInfinityOriginsLinux/discussions/1)
