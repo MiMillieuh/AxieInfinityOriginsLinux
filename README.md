@@ -14,9 +14,9 @@ I'm not responsable of anything for you using this software
 
 | Version  | Status |
 | ------------- | ------------- |
-| 0.2.29 | Working (Current) |
+| 0.2.30 | Working (Current) |
+| 0.2.29 | Working (Out-of-date) |
 | 0.2.28 | Working (Out-of-date) |
-| 0.2.27 | Working (Out-of-date) |
 | ...| [Full history](https://github.com/MiMillieuh/AxieInfinityOriginsLinux/blob/main/Fullupdatehistory.md)  |
 
 for update requests : [Here](https://github.com/MiMillieuh/AxieInfinityOriginsLinux/discussions/1)
